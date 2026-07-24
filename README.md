@@ -4,116 +4,101 @@
 
 ### Software Engineer • AI/ML Enthusiast • NIT Rourkela Graduate
 
-Building intelligent software, exploring modern AI, and solving real-world problems through engineering.
+Building intelligent software, exploring modern AI, and solving real-world engineering problems.
 
 </div>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate from **NIT Rourkela**
-- 💻 Interested in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**
-- 🧠 Strong interest in designing scalable systems and intelligent applications
-- 📚 Always learning, building, and exploring new technologies
-
----
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" />
-</p>
+- 🎓 B.Tech Graduate from **National Institute of Technology Rourkela**
+- 💡 Passionate about Software Engineering, Artificial Intelligence, Machine Learning and Robotics
+- 🚀 Interested in building scalable systems and AI-powered applications
+- 📖 Always learning new technologies and solving challenging problems
 
 ---
 
-### AI / Machine Learning
+## 💻 Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-**Experience with**
-
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- NLP
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Fine-tuning
-- OCR
-- YOLO
-- OpenCV
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • C++ • C • Java • SQL |
+| **AI & Machine Learning** | PyTorch • TensorFlow • Scikit-learn • Neural Networks • Deep Learning • Computer Vision • NLP • LLMs • Prompt Engineering • RAG |
+| **Computer Vision** | OpenCV • YOLO • OCR • Image Processing • Object Detection |
+| **Data Science** | NumPy • Pandas • Matplotlib • Data Analysis • Feature Engineering |
+| **Backend** | Node.js • Express.js • REST APIs • Authentication • Redis |
+| **Database** | MongoDB • SQL |
+| **Development** | Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab |
+| **Software Engineering** | Data Structures & Algorithms • OOP • System Design • Multithreading |
+| **Cloud & Platforms** | Oracle Cloud Infrastructure (OCI AI Foundations) |
+| **Design** | Figma |
 
 ---
 
-### Data Science
+## 🤖 Robotics & Embedded
 
-- NumPy
-- Pandas
-- Matplotlib
-- Data Analysis
-- Data Visualization
-- SQL
-
----
-
-### Backend & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,linux,vscode" />
-</p>
-
-Experience with
-
-- REST APIs
-- Authentication
-- Redis
-- System Design
-- OOP
-- DSA
-- Multithreading
+| Area | Experience |
+|------|------------|
+| Robotics | Mobile Robotics • Robotic Manipulation |
+| Computer Vision | Vision-guided Robotics |
+| ROS | Robot Operating System (ROS) |
+| Perception | YOLO-based Object Detection |
+| Motion | Inverse Kinematics |
+| Simulation | Roboflow • OpenCV Pipeline |
 
 ---
 
-### Robotics & Embedded
+## 🔬 Areas of Interest
 
-- ROS
-- Inverse Kinematics
-- Robotics
-- Sensor Integration
-- Autonomous Systems
-
----
-
-### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Roboflow
-- Google Colab
-- Linux
-- Figma
+| Domain | Focus |
+|---------|-------|
+| Artificial Intelligence | Generative AI • LLM Applications • AI Agents |
+| Machine Learning | Deep Learning • Model Optimization |
+| Software Engineering | Backend Systems • Scalable Architecture |
+| Computer Vision | Detection • Recognition • Scene Understanding |
+| Robotics | Intelligent Autonomous Systems |
+| Data Science | Predictive Analytics • Visualization |
 
 ---
 
-### Currently Exploring
+## 📚 Currently Exploring
 
-- Agentic AI
-- LLM Applications
-- Distributed Systems
-- MLOps
-- Cloud Computing
-- High Performance Computing
+| Learning | Status |
+|----------|--------|
+| Agentic AI | 🚀 |
+| Multi-Agent Systems | 🚀 |
+| MLOps | 🚀 |
+| Distributed Systems | 🚀 |
+| System Design | 🚀 |
+| High Performance Computing | 🚀 |
+| Cloud Technologies | 🚀 |
+| Large Language Models | 🚀 |
+
+---
+
+## 🛠️ Tools & Platforms
+
+| Development | AI/ML | Design |
+|-------------|--------|--------|
+| Git | PyTorch | Figma |
+| GitHub | TensorFlow | |
+| Linux | OpenCV | |
+| VS Code | Roboflow | |
+| Jupyter | Google Colab | |
 
 ---
 
 <div align="center">
 
-> *"Build things that matter. Learn continuously. Stay curious."*
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satya122id0889&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satya122id0889&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*"Build things that matter. Learn relentlessly. Stay curious."*
 
 </div>
