@@ -8,7 +8,6 @@ Building intelligent software, exploring modern AI, and solving real-world engin
 
 </div>
 
----
 ## 🛠️ Tech Stack
 
 <p align="center">
