@@ -10,7 +10,7 @@ Building intelligent software, exploring modern AI, and solving real-world engin
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,mongodb,nodejs,express,git,github,linux,vscode,figma,docker,redis,mysql,postgres,bash&perline=10" />
 </p>
 
