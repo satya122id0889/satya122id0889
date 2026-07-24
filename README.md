@@ -29,8 +29,8 @@ Building intelligent software, exploring modern AI, and solving real-world engin
 </p>
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate from **National Institute of Technology Rourkela**
-- 💡 Passionate about Software Engineering, Artificial Intelligence, Machine Learning and Robotics
+- 🎓 **NIT Rourkela**
+- 💡 Software Engineering, Artificial Intelligence, Machine Learning and Robotics
 - 🚀 Interested in building scalable systems and AI-powered applications
 - 📖 Always learning new technologies and solving challenging problems
 
