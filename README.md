@@ -9,7 +9,24 @@ Building intelligent software, exploring modern AI, and solving real-world engin
 </div>
 
 ---
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,mongodb,nodejs,express,git,github,linux,vscode,figma,docker,redis,mysql,postgres,bash&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Graduate from **National Institute of Technology Rourkela**
