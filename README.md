@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyabrata Sahu</h1>
+<h1 align="center">Hi 👋, I'm Satyabrata Satapathy</h1>
 <h3 align="center">Software Engineer | AI & Machine Learning Enthusiast | NIT Rourkela Graduate</h3>
 
 <p align="center">
